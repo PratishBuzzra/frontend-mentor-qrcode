@@ -1,10 +1,10 @@
-# Frontend Mentor - 3-column preview card component solution
+# Frontend Mentor - QR code component solution
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
+# Table of contents
+
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -17,29 +17,23 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
-
 ### Screenshot
 ![alt text](image.png)
 
 ### Links
+Live Site URL: [QRGIT](https://pratishbuzzra.github.io/frontend-mentor-qrcode/)
 
--Solution URL: [githubsoln](https://github.com/PratishBuzzra/frontendmentor-3column-card.git)
- Live Site URL: [Github page live URL](https://pratishbuzzra.github.io/frontendmentor-3column-card/)
+## My process
 
- ## My process
+### Built with
 
- ### Built with
- 
- - Semantic HTML5 markup
+- Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
+- CSS Grid
+- Mobile-first workflow
 
 ## Author
+
 - Frontend Mentor - [@PratishBuzzra](https://www.frontendmentor.io/profile/PratishBuzzra)
+
